@@ -1,0 +1,24 @@
+{
+  "users": [
+    { "id": 1, "name": "Hussain Abbas", "email": "hussain@gmail.com.com", "address": { "city": "Gilgit" } },
+    { "id": 2, "name": "Ali Raza", "email": "ali@gmail.com.com", "address": { "city": "Skardu" } },
+    { "id": 3, "name": "Sara Khan", "email": "sara@gmail.com.com", "address": { "city": "Hunza" } },
+    { "id": 4, "name": "Ahmed Nawaz", "email": "ahmed@gmail.com.com", "address": { "city": "Karimabad" } },
+    { "id": 5, "name": "Fatima Noor", "email": "fatima@gmail.com.com", "address": { "city": "Gilgit" } },
+    { "id": 6, "name": "Bilal Ahmed", "email": "bilal@gmail.com.com", "address": { "city": "Skardu" } },
+    { "id": 7, "name": "Zain Malik", "email": "zain@gmail.com.com", "address": { "city": "Islamabad" } },
+    { "id": 8, "name": "Ayesha Iqbal", "email": "ayesha@gmail.com.com", "address": { "city": "Lahore" } },
+    { "id": 9, "name": "Imran Haider", "email": "imran@gmail.com.com", "address": { "city": "Karachi" } },
+    { "id": 10, "name": "Nida Fatima", "email": "nida@gmail.com.com", "address": { "city": "Peshawar" } },
+    { "id": 11, "name": "Kashif Ali", "email": "kashif@gmail.com.com", "address": { "city": "Gilgit" } },
+    { "id": 12, "name": "Hina Javed", "email": "hina@gmail.com.com", "address": { "city": "Rawalpindi" } },
+    { "id": 13, "name": "Tariq Hussain", "email": "tariq@gmail.com.com", "address": { "city": "Multan" } },
+    { "id": 14, "name": "Maryam Zahra", "email": "maryam@example.com", "address": { "city": "Quetta" } },
+    { "id": 15, "name": "Sami Ullah", "email": "sami@gmail.com.com", "address": { "city": "Sialkot" } },
+    { "id": 16, "name": "Usman Khalid", "email": "usman@gmail.com.com", "address": { "city": "Hyderabad" } },
+    { "id": 17, "name": "Noreen Akhtar", "email": "noreen@gmail.com.com", "address": { "city": "Gilgit" } },
+    { "id": 18, "name": "Adil Shah", "email": "adil@gmail.com.com", "address": { "city": "Chitral" } },
+    { "id": 19, "name": "Bushra Aslam", "email": "bushra@gmail.com.com", "address": { "city": "Gilgit" } },
+    { "id": 20, "name": "Shahid Mehmood", "email": "shahid@gmail.com.com", "address": { "city": "Skardu" } }
+  ]
+}
