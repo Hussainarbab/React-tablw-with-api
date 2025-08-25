@@ -1,4 +1,4 @@
-// src/components/Table.jsx
+
 function Table({ data, columns, search, highlightText }) {
   return (
     <table className="min-w-[60%] border border-gray-300 ml-[20%] bg-white mt-4">
